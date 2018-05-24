@@ -19,6 +19,6 @@ h1 Graphic weather analitic
 
 Загружает словарь из из `'json_dictionery'` в виде строки, парсит его с помощью json.loads; Выводит график зависимости температуры от времени.
 
-Format: (![Alt text](https://github.com/BikeevArtur/Phrase-Generator/blob/master/Figure_0.png?raw=true "Optional Title"))
+![Alt text](https://github.com/BikeevArtur/Phrase-Generator/blob/master/Figure_0.png?raw=true "Optional Title")
 
 Затем (после закрытия окна с графиком) выводит круговую гистограмму с типами погоды: "пасмурно", "дождь"... в процентном соотношении.
