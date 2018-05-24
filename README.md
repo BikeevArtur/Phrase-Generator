@@ -6,7 +6,8 @@
 
 Получает словарь с данными о погоде на каждый час в ближайшие 5 суток, выводит в файл.
 Пример:
-dir /Users...\python.exe weather-prognosis.py --city London --app_id 7...0
+
+    dir /Users...\python.exe weather-prognosis.py --city London --app_id 7...0
 ***
 # weather-analisys
 
