@@ -1,8 +1,7 @@
 h1 Graphic weather analitic
---------------------------
---------------------------
+============================
 
-# weather-prognosis
+## weather-prognosis
 
 Получает прогноз погоды на ближайшие 5 дней по часам с [сайта погоды](http://api.openweathermap.org), приводит словарь с данными в строковый формат, загружает в файл `'json_dictionery'`
 
@@ -16,6 +15,6 @@ h1 Graphic weather analitic
 
     dir /Users...\python.exe weather-prognosis.py --city London --app_id 7...0
 ***
-# weather-analisys
+## weather-analisys
 
 Загружает словарь из из `'json_dictionery'` в виде строки, парсит его с помощью json.loads; Выводит график зависимости температуры от времени. Затем (после закрытия окна с графиком) выводит круговую гистограмму с типами погоды: "пасмурно", "дождь"... в процентном соотношении.
